@@ -1,6 +1,6 @@
-# Swarmchestrate
+# QONNECT
 
-**Swarmchestrate** is a QoS-aware Kubernetes based orchestrator for **cloud-fog-edge** continuum. It turns a fleet of heterogeneous clusters into a single, self-optimising platform that deploys and migrates micro-services according to **declarative Quality-of-Service vectors** (energy, cost, performance).
+**QONNECT** is a QoS-aware Kubernetes-based orchestrator for **cloud-fog-edge** continuum. It turns a fleet of heterogeneous clusters into a single, self-optimising platform that deploys and migrates micro-services according to **declarative Quality-of-Service vectors** (energy, cost, performance).
 
 * **Knowledge Base (KB)** – single source of truth (PostgreSQL by default).  
 * **Resource Lead Agents (RLA)** – one Raft-elected leader + followers: REST API + global scheduler.  
